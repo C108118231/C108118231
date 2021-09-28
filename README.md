@@ -16,3 +16,15 @@
 
 [高科大](https://www.nkust.edu.tw/)
 ![Nkust](https://www.nkust.edu.tw/var/file/0/1000/img/513/182513897.png "NKUST")
+
+![fig](https://img.tukuppt.com/bg_grid/00/18/32/2ppT8eAbr5.jpg!/fh/350 "海底風光")
+
+- [ ] todo list
+- [x] done 1
+- [ ] unfinished
+- [x] done 2
+
+```python
+str="This is a Strring."
+print(str)
+```
