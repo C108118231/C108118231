@@ -38,12 +38,15 @@ Strikethrough uses two tildes. ~~Scratch this.~~
 2. Another item  
    >+ Unordered sub-list.
 3. Actual numbers don't matter, just that it's a number  
->+ Ordered sub-list  
->+ 2nd
+   >+ Ordered sub-list  
+   >+ 2nd
 4. And another item.  
    >+ note 1  
    >+ note 2  
    >+ note 3
+
+>>1
+ >2
 
 | **Left** | **Center** | **Right** |
 | :--------- | :-----: | -------: |
