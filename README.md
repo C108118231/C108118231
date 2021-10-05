@@ -12,12 +12,13 @@
 
 :fire:
 
-:apple:
-
 - [ ] todo list
 - [x] done 1
 - [ ] unfinished
 - [x] done 2
+
+
+:apple:
 
 ```python
 str="This is a Strring."
