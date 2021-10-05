@@ -48,6 +48,11 @@ Strikethrough uses two tildes. ~~Scratch this.~~
 >1
 >>2
 
+>1.
+>2.
+>3.
+
+
 | **Left** | **Center** | **Right** |
 | :--------- | :-----: | -------: |
 | col 3 | right-aligend | $1600 |
