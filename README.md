@@ -48,9 +48,8 @@ Strikethrough uses two tildes. ~~Scratch this.~~
 >1
 >>2
 
->1.
->2.
->3.
+>1.一
+>2.二
 
 
 | **Left** | **Center** | **Right** |
