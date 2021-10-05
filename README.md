@@ -44,6 +44,7 @@ Strikethrough uses two tildes. ~~Scratch this.~~
 ...* note 1  
 ...* note 2  
 *** note 3
+
 | **Tables** | **Are** | **Cool** |
 | :--------- | :-----: | -------: |
 | col 3 | right-aligend | $1600 |
