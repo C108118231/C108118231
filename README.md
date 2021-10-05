@@ -14,11 +14,6 @@
 
 :apple:
 
-[高科大](https://www.nkust.edu.tw/)
-![Nkust](https://www.nkust.edu.tw/var/file/0/1000/img/513/182513897.png "NKUST")
-
-![fig](https://img.tukuppt.com/bg_grid/00/18/32/2ppT8eAbr5.jpg!/fh/350 "海底風光")
-
 - [ ] todo list
 - [x] done 1
 - [ ] unfinished
@@ -45,8 +40,13 @@ Strikethrough uses two tildes. ~~Scratch this.~~
 ...* note 2  
 *** note 3
 
-| **Tables** | **Are** | **Cool** |
+| **Left** | **Center** | **Right** |
 | :--------- | :-----: | -------: |
 | col 3 | right-aligend | $1600 |
 | col 2 | centered | $12 |
 | zebra stripes | are neat | $1 |
+
+[高科大](https://www.nkust.edu.tw/)
+![Nkust](https://www.nkust.edu.tw/var/file/0/1000/img/513/182513897.png "NKUST")
+
+![fig](https://img.tukuppt.com/bg_grid/00/18/32/2ppT8eAbr5.jpg!/fh/350 "海底風光")
