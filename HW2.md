@@ -1,10 +1,11 @@
 # HW2 
 ## C108118231 陳耿名
 
+## PERT/CPM圖
+
 ## 甘特圖
 ![個人作業甘特圖](https://user-images.githubusercontent.com/91524910/136996261-de406017-f8ae-4904-a197-65838ed9b9d1.JPG)
 
-## PERT/CPM圖
 
 ## 關鍵路徑
 1 > 2 > 4 > 6 > 9 > 11
